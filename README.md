@@ -5,7 +5,7 @@ There is another project TuDow2 2DOF w/ analytic at [TuDow2](https://github.com/
 
 
 Denavit-Hartenburg parameters definition
-![DH definition](gif/DH_definition.png)  <br/><br/>
+![DH definition](gif/DH_definitions.png)  <br/><br/>
 
 ### References
   - [FORWARD KINEMATICS:THE D-H CONVENTION](https://users.cs.duke.edu/~brd/Teaching/Bio/asmb/current/Papers/chap3-forward-kinematics.pdf)
