@@ -3,8 +3,8 @@ My Robot TuDow3 simulation w/ Forward/Inverse Kinematics <br/> <br/>
 
 
 
-Denavit-Heartenburg parameters definition
+Denavit-Hartenburg parameters definition
 ![DH definition](gif/DH_definition.png)  <br/><br/>
 
 ### References
-  - [THE DENAVIT-HARTENBERG CONVENTION ](https://users.cs.duke.edu/~brd/Teaching/Bio/asmb/current/Papers/chap3-forward-kinematics.pdf)
+  - [FORWARD KINEMATICS:THE D-H CONVENTION](https://users.cs.duke.edu/~brd/Teaching/Bio/asmb/current/Papers/chap3-forward-kinematics.pdf)
