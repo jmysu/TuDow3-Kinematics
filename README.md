@@ -8,4 +8,5 @@ Denavit-Hartenburg parameters definition
 ![DH definition](gif/DH_definitions.png)  <br/><br/>
 
 ### References
+  - [libQGLViewer](http://libqglviewer.com/)
   - [FORWARD KINEMATICS:THE D-H CONVENTION](https://users.cs.duke.edu/~brd/Teaching/Bio/asmb/current/Papers/chap3-forward-kinematics.pdf)
