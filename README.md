@@ -11,6 +11,11 @@ Denavit-Hartenburg parameters definition
 My FABRIK process tuned for C++
 ![FABRIK Process](gif/FABRIK_Process_0426.png) <br/><br/>
 
+TD3 IK Test1
+![FABRIK Test1](gif/TD3_0516_ILoveYou.gif) <br/>
+TD3 IK Test2
+![FABRIK Test2](gif/TD3_0516_發大財.gif) <br/><br/>
+
 ### References
   - [libQGLViewer](http://libqglviewer.com/)
   - [FORWARD KINEMATICS:THE D-H CONVENTION](https://users.cs.duke.edu/~brd/Teaching/Bio/asmb/current/Papers/chap3-forward-kinematics.pdf)
